@@ -1,0 +1,6 @@
+Flask
+Flask-marshmallow
+Flask-SQLAlchemy
+marshmallow-sqlalchemy
+Flask-testing
+nose2
